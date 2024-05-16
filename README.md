@@ -1,4 +1,4 @@
-![Automation Diagnostics](https://github.com/sourceduty/Automation_Diagnostics/assets/123030236/6395b0de-f7ec-41ab-a907-7803385f11f2)
+![Automation Diagnostics](https://github.com/sourceduty/Automation_Diagnostics/assets/123030236/93fc6438-43be-4dca-95b2-ded9921d648f)
 
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics) is a tool developed to assist users in assessing and improving their automation systems. It helps in evaluating the effectiveness, efficiency, and productivity of automation by using a structured approach. This usually involves guiding users through a series of questions or checklists about their current automation setup, collecting responses, and analyzing them to provide tailored advice and suggestions for optimization. The goal is to ensure that the automated systems are performing optimally and contributing to overall operational excellence.
 
