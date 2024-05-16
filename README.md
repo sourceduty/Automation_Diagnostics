@@ -16,6 +16,8 @@ In addition to identifying issues, "Automation Diagnostics" offers recommendatio
 [Decision Automation](https://github.com/sourceduty/Decision_Automation)
 <br>
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+<br>
+[Programming Diagnostics](https://github.com/sourceduty/Programming_Diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
